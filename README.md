@@ -2,6 +2,9 @@
 
 ![Healthstat](https://github.com/sulaiman013/My-Personal-Projects/assets/55143390/893d27d2-f823-432d-a7ca-b70ed2780ce4)
 
+## 🔗 Dashboard Link
+[Link to Dashboard](https://lnkd.in/eAdyVfkC)
+
 
 ## Project Overview
 
